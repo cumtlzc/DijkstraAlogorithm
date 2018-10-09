@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/8/29 21:59:27。
+     1>项目“C:\Users\liuzhaochao\Desktop\DijkstraAlogorithm\DijkstraAlogorithm\DijkstraAlogorithm.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\RecreationSoftware\MicrosoftVS2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\DijkstraAlogorithm.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MyDijkstra.cpp
+         MyDijkstra.cpp
+     1>c:\users\liuzhaochao\desktop\dijkstraalogorithm\dijkstraalogorithm\mydijkstra.h(6): warning C4091: “typedef ”: 没有声明变量时忽略“ObstacleStruct”的左侧
+     1>c:\users\liuzhaochao\desktop\dijkstraalogorithm\dijkstraalogorithm\mydijkstra.h(13): warning C4091: “typedef ”: 没有声明变量时忽略“StartEndStruct”的左侧
+     1>c:\users\liuzhaochao\desktop\dijkstraalogorithm\dijkstraalogorithm\mydijkstra.h(25): warning C4091: “typedef ”: 没有声明变量时忽略“Dist”的左侧
+     1>c:\users\liuzhaochao\desktop\dijkstraalogorithm\dijkstraalogorithm\mydijkstra.cpp(98): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\liuzhaochao\desktop\dijkstraalogorithm\dijkstraalogorithm\mydijkstra.cpp(404): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         E:\RecreationSoftware\MicrosoftVS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\liuzhaochao\Desktop\DijkstraAlogorithm\Debug\DijkstraAlogorithm.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\liuzhaochao\Desktop\DijkstraAlogorithm\Debug\DijkstraAlogorithm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\liuzhaochao\Desktop\DijkstraAlogorithm\Debug\DijkstraAlogorithm.lib" /MACHINE:X86 Debug\Dijkstra.obj
+         Debug\DijkstraAlogorithm.obj
+         Debug\MyDijkstra.obj
+         Debug\stdafx.obj
+         DijkstraAlogorithm.vcxproj -> C:\Users\liuzhaochao\Desktop\DijkstraAlogorithm\Debug\DijkstraAlogorithm.exe
+     1>已完成生成项目“C:\Users\liuzhaochao\Desktop\DijkstraAlogorithm\DijkstraAlogorithm\DijkstraAlogorithm.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.74
